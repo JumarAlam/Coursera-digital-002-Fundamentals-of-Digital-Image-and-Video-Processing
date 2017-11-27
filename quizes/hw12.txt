@@ -1,0 +1,8 @@
+1 0,1,p correct
+2 false correct
+3 sparse low rank, sparse sparse, low rank low rank
+4 orthogonal, doesn't need
+5 0,1,p 0,1,2 all
+6cb=0 x* none correct
+7bc UVandSUm correct
+8
